@@ -49,7 +49,7 @@ python Parquet-Converter-Main.py
 To use `randomizer.py`, run the following command:
 
 ```bash
-python randomizer.py [options]
+python randomizer.py
 ```
 
 ## Contributing
