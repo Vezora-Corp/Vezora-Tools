@@ -11,3 +11,7 @@
 [Narwhal 7b on Hugging Face](https://huggingface.co/Vezora/Narwhal-7b)
 
 *Narwhal 7b performs more like a 30b parameter model with 1/4 the size. Created using `merge_cli.py`.*
+
+
+
+---
