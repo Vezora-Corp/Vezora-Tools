@@ -91,4 +91,4 @@ Feel free to contribute or report issues!
 
 ## merge_peft_adapters.py
 
-Fully created by [TheBloke]([https://github.com/zarakiquemparte/zaraki-tools](https://github.com/TheBlokeAI/AIScripts/blob/main/merge_peft_adapters.py).
+Fully created by [TheBloke]([https://github.com/zarakiquemparte/zaraki-tools](https://github.com/TheBlokeAI/AIScripts/blob/main/merge_peft_adapters.py) .
