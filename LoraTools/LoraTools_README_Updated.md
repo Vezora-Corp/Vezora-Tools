@@ -87,3 +87,8 @@ This script was written by [jinyongyoo](https://github.com/jinyongyoo) and [euge
 - Python 3.x
 
 Feel free to contribute or report issues!
+
+
+## merge_peft_adapters.py
+
+Fully created by [TheBloke]([https://github.com/zarakiquemparte/zaraki-tools](https://github.com/TheBlokeAI/AIScripts/blob/main/merge_peft_adapters.py)https://github.com/TheBlokeAI/AIScripts/blob/main/merge_peft_adapters.py)
